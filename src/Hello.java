@@ -158,5 +158,6 @@ public class Hello {
             }
         }
         System.out.println("There are "+cnt+" primes from "+m+" to "+n);
+
     }
 }
