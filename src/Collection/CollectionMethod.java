@@ -34,5 +34,7 @@ public class CollectionMethod {
         list.clear();
         list.add("聊斋");
         System.out.println(list);
+
+
     }
 }
